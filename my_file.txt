@@ -1,1 +1,1 @@
-This is version after merge
+This is version from my_branch.
